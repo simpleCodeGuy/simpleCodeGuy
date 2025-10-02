@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**simpleCodeGuy/simpleCodeGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Praveen Maurya</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### *I have a passion for computing, especially mobile application development where I see its huge potential for adoption in different industries and markets.*
+
+### Connect with me
+
+| Platform | Profile Link                                                 |
+| -------- | ------------------------------------------------------------ |
+| Linkedin | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Click here to goto Linkedin" width="30" height="30">](https://www.linkedin.com/in/simplecodeguy/) |
+
+### My Creations
+
+| <h3 align="center">modbus_master</h3><br> Package is published package on pub.dev | <h3 align="center">Gully Cricket Scorer</h3><br/> App is available on Google Play Store |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [<img src=Images\modbus_master_screenshot_1.jpg alt="Click here to goto Linkedin" width="300">](https://pub.dev/packages/modbus_master) | [<img src=Images\gully_cricket_scorer_screenshot_1.jpg alt="Click here to goto Gully Cricket Scorer on Google Play Store" width="300">](https://play.google.com/store/apps/details?id=com.simpleCodeGuy.gully_cricket_scorer&hl=en) |
+| **Use Case Industry** : Industrial Automation <br><br>**What does it do?** Implementation of Modbus Master (client) part of Modbus TCP protocol in dart programming language. Modbus TCP is a widely adopted protocol & Modbus TCP devices are in production for decades by many manufacturers & companies. | **Use Case Industry:** Cricket players<br><br>**What does it do ?** It is an offline scoring app for use in cricket matches. |
+
+
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> Dart <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; Android <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; Git <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; Sqlite <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
