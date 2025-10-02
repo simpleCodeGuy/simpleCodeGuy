@@ -14,8 +14,8 @@
 
 | <h3 align="center">modbus_master</h3><br> Package is published package on pub.dev | <h3 align="center">Gully Cricket Scorer</h3><br/> App is available on Google Play Store |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| [<img src=Images\modbus_master_screenshot_1.jpg alt="Click here to goto Linkedin" width="300">](https://pub.dev/packages/modbus_master) | [<img src=Images\gully_cricket_scorer_screenshot_1.jpg alt="Click here to goto Gully Cricket Scorer on Google Play Store" width="300">](https://play.google.com/store/apps/details?id=com.simpleCodeGuy.gully_cricket_scorer&hl=en) |
-| **Use Case Industry** : Industrial Automation <br><br>**What does it do?** Implementation of Modbus Master (client) part of Modbus TCP protocol in dart programming language. Modbus TCP is a widely adopted protocol & Modbus TCP devices are in production for decades by many manufacturers & companies. | **Use Case Industry:** Cricket players<br><br>**What does it do ?** It is an offline scoring app for use in cricket matches. |
+| [<img src=Images\modbus_master_screenshot_1.jpg alt="Click here to goto Linkedin" width="190" height="400">](https://pub.dev/packages/modbus_master) | [<img src=Images\gully_cricket_scorer_screenshot_1.jpg alt="Click here to goto Gully Cricket Scorer on Google Play Store" width="190" height="400">](https://play.google.com/store/apps/details?id=com.simpleCodeGuy.gully_cricket_scorer&hl=en) |
+| **Use Case Industry** : Industrial Automation <br><br>**What does it do?** Implementation of Modbus Master<br> (client) part of Modbus TCP protocol in dart<br> programming language. Modbus TCP is a widely<br> adopted protocol & Modbus TCP devices are<br> in production for decades by many manufacturers & companies. | **Use Case Industry:** Cricket players<br><br>**What does it do ?** It is an offline scoring app for use in cricket matches. |
 
 
 
